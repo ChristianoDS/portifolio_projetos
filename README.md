@@ -29,7 +29,7 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
   - SQL Language
 
 - **Estatística e Machine Learning:**
-  - [Inserir habilidades específicas aqui]
+  - Sklearn.
 
 - **Visualização de Dados:**
   - Plotly.
