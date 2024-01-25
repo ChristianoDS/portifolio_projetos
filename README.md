@@ -26,6 +26,7 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
   - Python com foco em análise de dados.
   - Pensamento Estratégico.
   - Conceitos de ETL.
+  - SQL Language
 
 - **Estatística e Machine Learning:**
   - [Inserir habilidades específicas aqui]
@@ -46,7 +47,7 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
 
 2. **Pesquisador Bolsista (3+ anos):**
    - Estudo da captura de CO2 em resíduos de biomassas para promover processos ambientais amigáveis.
-   - Publicação de 6 artigos científicos em periódicos internacionais.
+   - Publicação de 7 artigos científicos em periódicos internacionais, incluindo um artigo na área de machine learning.
 
 3. **Monitor/Ajudante na Pós-graduação (2+ anos):**
    - Auxílio na criação de gráficos com matplotlib e suporte em Python para alunos de pós-graduação.
