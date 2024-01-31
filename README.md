@@ -27,6 +27,7 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
   - Pensamento Estratégico.
   - Conceitos de ETL.
   - SQL Language
+  - GIT 
 
 - **Estatística e Machine Learning:**
   - Sklearn.
