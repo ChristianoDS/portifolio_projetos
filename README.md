@@ -22,7 +22,7 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
 
 ## Habilidades
 
-- **Linguagens de Programação:**
+- **Habilidades de Programação:**
   - Python com foco em análise de dados.
   - Pensamento Estratégico.
   - Conceitos de ETL.
