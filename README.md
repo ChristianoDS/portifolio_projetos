@@ -27,7 +27,8 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
   - Pensamento Estratégico.
   - Conceitos de ETL.
   - SQL Language
-  - GIT 
+  - Git
+  - Terminal
 
 - **Estatística e Machine Learning:**
   - Sklearn.
@@ -39,6 +40,9 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
 - **Engenharia de Software:**
   - Github.
   - Streamlit Cloud.
+  - SQLite Database
+  - Pyenv
+  - Linux
 
 ## Experiências Profissionais
 
