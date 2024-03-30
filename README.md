@@ -43,6 +43,8 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
   - SQLite Database
   - Pyenv
   - Linux
+  - Terminal
+  - API
 
 ## Experiências Profissionais
 
@@ -63,6 +65,10 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
 ### Desenvolvimento de um Painel Gerencial para Marketplace de Entregas
 
 Neste projeto, utilizei Python, Streamlit e Github para criar um painel gerencial com métricas essenciais para uma empresa de delivery. O painel foi hospedado na nuvem e está disponível [aqui](https://github.com/ChristianoDS/zomato_project).
+
+### Previsão de vendas de uma rede de farmácias
+Neste projeto, foi desenvolvido um algoritmo de Machine Learning para prever as vendas das 6 últimas semanas de uma rede de farmácias da Europa. O algoritmo de Regressão treinado possui um erro de 12% e o resultado estimado da solução é de $ 290 milhões de faturamento. Para consultar o projeto, você pode acessar o bot do telegram rossmannproject_bot e solicitar informação da loja desejada para saber o faturamento. O projeto completo pode está disponível [aqui](https://github.com/ChristianoDS/rossmann_project).
+
 
 ## Entre em Contato
 
