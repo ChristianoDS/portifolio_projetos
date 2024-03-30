@@ -49,7 +49,7 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
 
 ## Experiências Profissionais
 
-1. **Projeto Completo de Ciência de Dados:**
+1. **3 Projetos Completo de Ciência de Dados:**
    - Desenvolvimento de soluções para problemas de negócio utilizando dados públicos de competições de Ciência de Dados.
    - Abordagem do problema desde a concepção até a publicação do dashboard utilizando ferramentas de Cloud Computing.
 
