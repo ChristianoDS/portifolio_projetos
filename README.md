@@ -32,6 +32,7 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
 
 - **Estatística e Machine Learning:**
   - Sklearn.
+  - XGboost
 
 - **Visualização de Dados:**
   - Plotly.
