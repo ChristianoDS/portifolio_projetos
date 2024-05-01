@@ -75,10 +75,16 @@ Estou em busca de aprimoramento profissional, elevando minhas habilidades com Ge
 
 ### Desenvolvimento de um Painel Gerencial para Marketplace de Entregas
 
-Neste projeto, utilizei Python, Streamlit e Github para criar um painel gerencial com métricas essenciais para uma empresa de delivery. O painel foi hospedado na nuvem e está disponível [aqui](https://github.com/ChristianoDS/zomato_project).
+Neste projeto, utilizei Python, Streamlit e Github para criar um painel gerencial com métricas essenciais para uma empresa de delivery. O painel foi hospedado na nuvem e está disponível [aqui](https://github.com/ChristianoDS/zomato_project)
+
+### Ensaio de Machine Learning.
+
+Nesse projeto, foram explorados os principais conceitos do treinamento, ajuste de parâmetros e limiares entre overfitting e underfitting de vários algoritmos de Machine Learning dentro das tarefas de classificação, regressão e agrupamento, através de um ensaio de Machine Learning.
+
+O resultado final do projeto foi um painel mostrando a performance desses algoritmos de Machine Learning, a partir da variações dos valores dos principais parâmetros de cada algoritmo, que controlam o estado de overfitting e underfitting. O projeto encontra-se [aqui](https://github.com/ChristianoDS/ensaio-machine-learning)
 
 ### Previsão de vendas de uma rede de farmácias
-Neste projeto, foi desenvolvido um algoritmo de Machine Learning para prever as vendas das 6 últimas semanas de uma rede de farmácias da Europa. O algoritmo de Regressão treinado possui um erro de 12% e o resultado estimado da solução é de $ 290 milhões de faturamento. Para consultar o projeto, você pode acessar o bot do telegram rossmannproject_bot e solicitar informação da loja desejada para saber o faturamento. O projeto completo pode está disponível [aqui](https://github.com/ChristianoDS/rossmann_project).
+Neste projeto, foi desenvolvido um algoritmo de Machine Learning para prever as vendas das 6 últimas semanas de uma rede de farmácias da Europa. O algoritmo de Regressão treinado possui um erro de 12% e o resultado estimado da solução é de $ 290 milhões de faturamento. Para consultar o projeto, você pode acessar o bot do telegram rossmannproject_bot e solicitar informação da loja desejada para saber o faturamento. O projeto completo pode está disponível [aqui](https://github.com/ChristianoDS/rossmann_project)
 
 
 ## Entre em Contato
