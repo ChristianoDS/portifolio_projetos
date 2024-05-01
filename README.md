@@ -16,9 +16,9 @@ Nesta página, compartilho meu conhecimento e habilidades em Ciência de Dados, 
 
 ## Sobre Mim
 
-Meu nome é Christiano Peres, sou formado em Engenharia Ambiental e atualmente sou pesquisador bolsista de doutorado em ciências ambientais. Trabalho no desenvolvimento de um modelo preditivo de machine learning para captura de CO2 atmosférico em fontes de biomassas. Além disso, mantenho projetos pessoais em Ciência de Dados para aprimorar minhas habilidades práticas.
+Meu nome é Christiano Peres, sou formado em Engenharia Ambiental e atualmente sou Cientista de Dados trabalhando com IA Generativa. Também sou Doutorando, trabalho no desenvolvimento de um modelo preditivo de machine learning para captura de CO2 atmosférico em fontes de biomassas. Além disso, mantenho projetos pessoais em Ciência de Dados para aprimorar minhas habilidades práticas.
 
-Estou em busca de oportunidades profissionais como Cientista de Dados para contribuir na tomada de decisões empresariais por meio da análise de dados.
+Estou em busca de aprimoramento profissional, elevando minhas habilidades com Gen IA, Machine Learning, Deep Learning.
 
 ## Habilidades
 
@@ -34,30 +34,40 @@ Estou em busca de oportunidades profissionais como Cientista de Dados para contr
   - Sklearn.
   - XGboost
 
+- **Redes Neurais e Deep Learning Learning:**
+  - LlamaIndex.
+  - RAG
+
 - **Visualização de Dados:**
   - Plotly.
   - Streamlit.
 
 - **Engenharia de Software:**
   - Github.
+  - Docker File
+  - AWS Cloud
   - Streamlit Cloud.
   - SQLite Database
-  - Pyenv
+  - Pyenv e Conda Env
   - Linux
   - Terminal
   - API
 
 ## Experiências Profissionais
 
-1. **3 Projetos Completo de Ciência de Dados:**
+1. **Cientista de Dados com experiência de mercado (Recente):**
+   - Desenvolvimento de soluções para problemas de negócio utilizando IA Generativa e ferramentas como Redes Neurais e RAG.
+   - Utilização de ferramentas de Cloud Computing como AWS.
+
+2. **3 Projetos Completo de Ciência de Dados:**
    - Desenvolvimento de soluções para problemas de negócio utilizando dados públicos de competições de Ciência de Dados.
    - Abordagem do problema desde a concepção até a publicação do dashboard utilizando ferramentas de Cloud Computing.
 
-2. **Pesquisador Bolsista (3+ anos):**
+3. **Pesquisador Bolsista (3+ anos):**
    - Estudo da captura de CO2 em resíduos de biomassas para promover processos ambientais amigáveis.
    - Publicação de 7 artigos científicos em periódicos internacionais, incluindo um artigo na área de machine learning.
 
-3. **Monitor/Ajudante na Pós-graduação (2+ anos):**
+4. **Monitor/Ajudante na Pós-graduação (2+ anos):**
    - Auxílio na criação de gráficos com matplotlib e suporte em Python para alunos de pós-graduação.
    - Bolsista de iniciação científica.
 
