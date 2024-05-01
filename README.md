@@ -36,6 +36,7 @@ Estou em busca de aprimoramento profissional, elevando minhas habilidades com Ge
 
 - **Redes Neurais e Deep Learning Learning:**
   - LlamaIndex.
+  - LLM
   - RAG
 
 - **Visualização de Dados:**
@@ -56,7 +57,7 @@ Estou em busca de aprimoramento profissional, elevando minhas habilidades com Ge
 ## Experiências Profissionais
 
 1. **Cientista de Dados com experiência de mercado (Recente):**
-   - Desenvolvimento de soluções para problemas de negócio utilizando IA Generativa e ferramentas como Redes Neurais e RAG.
+   - Desenvolvimento de soluções para problemas de negócio utilizando IA Generativa e ferramentas como Redes Neurais, LLM e RAG.
    - Utilização de ferramentas de Cloud Computing como AWS.
 
 2. **3 Projetos Completo de Ciência de Dados:**
